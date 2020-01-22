@@ -15,7 +15,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student 
 {
     private String name;
-
+    public String githubCheck;
+    
     /**
      * @return the name
      */
